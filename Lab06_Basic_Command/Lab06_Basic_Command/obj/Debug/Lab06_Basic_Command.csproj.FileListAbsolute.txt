@@ -1,0 +1,28 @@
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe.config
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.pdb
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.AccountManager.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Billdetail.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Billform.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Form1.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.frmFood.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Properties.Resources.resources
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.exe
+C:\Users\Admin\Downloads\LT_CSDL-main\LT_CSDL-main\1812856_LeQuocToan_CTK42_Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe.config
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\bin\Debug\Lab06_Basic_Command.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.AssemblyReference.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.AccountManager.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Billdetail.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Billform.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Form1.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.Properties.Resources.resources
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.GenerateResource.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.exe
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.pdb
+D:\Năm 3\Lập trình cơ sở dữ liệu\Bài Lab\Lab06_Basic_Command\Lab06_Basic_Command\obj\Debug\Lab06_Basic_Command.FoodForm.resources
